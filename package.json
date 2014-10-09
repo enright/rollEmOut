@@ -1,0 +1,12 @@
+{
+  "name": "rollEmOut",
+  "description": "rolling dice",
+  "version": "0.0.1",
+  "author": "Bill Enright <bill@yisup.com>",
+  "main": "./index",
+  "dependencies": {
+    "uuid": "^1.4.1",
+    "express": "^3.4.8",
+    "superagent": "^0.17.0"
+  }
+}
